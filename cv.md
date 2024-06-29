@@ -5,12 +5,12 @@
 a strong work ethic and readiness to make meaningful contributions to the team.*
 
 ### <h3> EDUCATION
-* **Jagiellonian University** 
-2021 – 2023
-MA in Business and Finance Management.
+* **Jagiellonian University**               ![alt text](../../числа/images.png)
+2021 – 2023  
+    MA in Business and Finance Management.                        
 
-* **Baku State University**
-2005 - 2009
+* **Baku State University**   
+2005 - 2009  
 BA in Geography science.
 
 ### <h3> Code Examples
