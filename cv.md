@@ -20,13 +20,13 @@ BA in Geography science.
 
 
 ### <h3> Code Examples  
-```c++
+```
 #include <iostream>
 
 using namespace std
 
 int main() {
-	cout << "This is a C++ code example!"
+	cout << "Code example!"
 }
 ```
 
