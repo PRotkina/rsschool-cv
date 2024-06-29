@@ -5,10 +5,17 @@
 a strong work ethic and readiness to make meaningful contributions to the team.*
 
 ### <h3> EDUCATION
-**Jagiellonian University**
+* **Jagiellonian University** 
 2021 – 2023
 MA in Business and Finance Management.
 
-**Baku State University**
+* **Baku State University**
 2005 - 2009
 BA in Geography science.
+
+### <h3> Code Examples
+
+### <h3> LANGUAGES
+Fluent in Russian, Azerbaijani
+Upper-intermediate in English
+Pre-intermediate in Polish
