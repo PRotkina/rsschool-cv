@@ -1,11 +1,16 @@
-# PARVIN ROTKINA
+# PARVIN ROTKINA 
 
-### <h3>PROFILE 
+### <h3>My Contact Info:
+* Phone: +48 735 926 721
+* E-mail: <parvin.rotkina@gmail.com>
+
+### <h3>About Me
+ 
 *Proactive, dedicated, and eager to learn person, with
 a strong work ethic and readiness to make meaningful contributions to the team.*
 
-### <h3> EDUCATION
-* **Jagiellonian University**               ![alt text](../../числа/images.png)
+### <h3> Education
+* **Jagiellonian University**         
 2021 – 2023  
     MA in Business and Finance Management.                        
 
@@ -13,9 +18,21 @@ a strong work ethic and readiness to make meaningful contributions to the team.*
 2005 - 2009  
 BA in Geography science.
 
-### <h3> Code Examples
 
-### <h3> LANGUAGES
-Fluent in Russian, Azerbaijani
-Upper-intermediate in English
+### <h3> Code Examples  
+```c++
+#include <iostream>
+
+using namespace std
+
+int main() {
+	cout << "This is a C++ code example!"
+}
+```
+
+### <h3> Languages
+Fluent in Russian, Azerbaijani  
+Upper-intermediate in English  
 Pre-intermediate in Polish
+
+   
