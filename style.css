@@ -1,4 +1,12 @@
-.name{
+.name {
     font-weight: 300;
     font-family:'Courier New', Courier, monospace
+}
+
+.language {
+    border: 1px solid
+}
+
+.lang {
+    color: blueviolet;
 }
