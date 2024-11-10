@@ -1,15 +1,15 @@
 # PARVIN ROTKINA
 
-### <h3>My Contact Info:
+### My Contact Info:
 * Phone: +48 735 926 721
 * E-mail: <parvin.rotkina@gmail.com>
 
-### <h3>About Me
+### About Me
 
 *Proactive, dedicated, and eager to learn person, with
 a strong work ethic and readiness to make meaningful contributions to the team.*
 
-### <h3> Education
+### Education
 * **Jagiellonian University**
 2021 – 2023
 MA in Business and Finance Management.
@@ -32,7 +32,7 @@ int main() {
 }
 ```
 
-### <h3> Languages
-- Fluent in Russian, Azerbaijani
-- Upper-intermediate in English
-- Pre-intermediate in Polish
+### Languages
+Fluent in Russian, Azerbaijani
+Upper-intermediate in English
+Pre-intermediate in Polish
