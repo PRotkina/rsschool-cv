@@ -18,3 +18,16 @@ MA in Business and Finance Management.
 * **Baku State University**
 2005 - 2009
 BA in Geography science.
+
+### <h3> Code Examples
+```
+#include <iostream>
+
+
+using namespace std
+
+
+int main() {
+    cout << "Code example!"
+}
+```
