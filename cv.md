@@ -31,3 +31,8 @@ int main() {
     cout << "Code example!"
 }
 ```
+
+### <h3> Languages
+Fluent in Russian, Azerbaijani
+Upper-intermediate in English
+Pre-intermediate in Polish
