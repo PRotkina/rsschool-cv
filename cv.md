@@ -33,6 +33,6 @@ int main() {
 ```
 
 ### Languages
-Fluent in Russian, Azerbaijani
-Upper-intermediate in English
+Fluent in Russian, Azerbaijani<br>
+Upper-intermediate in English<br>
 Pre-intermediate in Polish
