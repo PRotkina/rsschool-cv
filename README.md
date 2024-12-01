@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PRotkina.github.io/rsschool-cv/
